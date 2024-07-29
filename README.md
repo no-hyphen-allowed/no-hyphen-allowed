@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @no-hyphen-allowed
-- 👀 I’m interested in developing trade algorithms
+- 👀 I’m interested in developing AI and datamining tools.
 - 🌱 I’m currently learning a lot of Python (NumPy, Pandas and so on)
 - 📫 How to reach me: just use Twitter @scienceDaniel
 
