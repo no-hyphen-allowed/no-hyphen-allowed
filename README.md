@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @no-hyphen-allowed
-- 👀 I’m interested in developing AI and datamining tools.
+- 👀 I’m interested in developing AI and datamining tools, ass well ass Chat-bots/chat-games.
 - 🌱 I’m currently learning a lot of Python (NumPy, Pandas and so on)
 - 📫 How to reach me: just use Twitter @scienceDaniel
 
